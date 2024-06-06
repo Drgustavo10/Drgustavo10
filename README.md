@@ -1,15 +1,17 @@
-## boas vindas ao meu perfil : hea
+## boas vindas ao meu perfil💙
 
+meu nome: Gustavo Soares Silva
+meu idade é 18 anos
+Estou estudando na [Alura](https://www.aluno.com.br)
 
-**Drgustavo10/Drgustavo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou me desenvolvendo na linguagem JavaScript
 
-Here are some ideas to get you started:
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Você pode entrar em contato comigo 📫
+
+alurastartestudante@email.com
+
+@alurastartestudante
+
+![](https://media1.tenor.com/m/778QefBF1fcAAAAC/jinmojv21-bts.gif)
